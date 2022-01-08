@@ -19,8 +19,8 @@ methylation_scripts: scripts for the methylation analysis
 - Methylation_barplot_mouse_human.random.R: prepare the TCGA methylation adta with random genes in mouse
 - TCGA_to_TURCAN_new.R: predict the Turcan dataset using the TCGA data and the DMRs genes in mouse
 - tf_avg_profile.PromotersExons.R: plot avg methylation signals of TFs overlapping promoters and enhancers / and all DMRs
-- liblinear_MM_to_HS_April_meth.R: use TCGA dataset to measure the potential of prediction of the DMRs in IDH+ and Methylation Clusters
-- liblinear_MM_to_HS_April_meth.nodown.R: the same of before without downsampling
+- *liblinear_MM_to_HS_April_meth.R*: use TCGA dataset to measure the potential of prediction of the DMRs in IDH+ and Methylation Clusters
+- *liblinear_MM_to_HS_April_meth.nodown.R*: the same of before without downsampling
 - liblinear_MM_to_HS_April_meth.Random.R: use TCGA dataset to measure the potential of prediction of the DMRs in IDH+ and Methylation Clusters with random genes
 - liblinear_MM_to_HS_April_meth.RandomWithBoot.R: use TCGA dataset to measure the potential of prediction of the DMRs in IDH+ and Methylation Clusters with random genes with bootstrap
 - liblinear_MM_to_HS_April_meth.RandomWithBoot.TrimmedHard.R:use TCGA dataset to measure the potential of prediction of the DMRs in IDH+ and Methylation Clusters with random genes with bootstrap and binarizing the methylation data
