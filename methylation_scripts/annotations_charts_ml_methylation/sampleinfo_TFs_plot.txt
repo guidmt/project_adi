@@ -1,5 +1,5 @@
 id	namefile	status
-E2F1	is	hypo
+E2F1	E2F1_regions_dmrs_adi_pval0.05_lfc1.center.DOWN.withmiss.gz	hypo
 E2F1	E2F1_regions_dmrs_adi_pval0.05_lfc1.center.UP.withmiss.gz	hyper
 E2F1	E2F1_regions_dmrs_adi_pval0.05_lfc1.matrix.center.gz	hyper_hypo
 E2F4	E2F4_regions_dmrs_adi_pval0.05_lfc1.center.DOWN.withmiss.gz	hypo

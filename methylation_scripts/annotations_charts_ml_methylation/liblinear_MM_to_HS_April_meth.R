@@ -401,7 +401,7 @@ dev.off()
 # Plot results LGG 
 # 
 
-pdf("GBM_LGG_boxplot_mm_to_hs_prob_meth.pdf")
+pdf("GBM_LGG_boxplot_mm_to_hs_prob_meth.Jan2022.pdf")
 
 gbm_lgg_75<-collapseMethValues(gbm_lgg_ml_res,method="75")
 gbm_lgg_75$variable<-gsub(gbm_lgg_75$variable,pattern="variable_",replacement="")
@@ -510,5 +510,5 @@ CI_lgg<-data.frame(apply(lgg_acc_ci,2,custom_quantile),tissue="LGG")
 CI_gbm_lgg<-data.frame(apply(gbm_lgg_acc_ci,2,custom_quantile),tissue="GBM_LGG")
 CI_all<-rbind(CI_lgg,CI_gbm_lgg)
 
-write.table(CI_all,"mm_to_hs_ConfidenceIntervalsAccuracyLiblinear_WithDownsampling.Aug2021.txt",quote=F,sep="\t")
+write.table(CI_all,"mm_to_hs_ConfidenceIntervalsAccuracyLiblinear_WithDownsampling.Jan2022.txt",quote=F,sep="\t")
 

@@ -4,14 +4,14 @@
 library(profileplyr)
 library(jsonlite)
 
-tab_sampleinfo<-read.delim(file="sampleinfo_TFs_plot.PromotersExons.txt")
+tab_sampleinfo<-read.delim(file="/Users/guidantonio/Desktop/GitHub/project_adi/methylation_scripts/annotations_charts_ml_methylation/sampleinfo_TFs_plot.PromotersExons.txt")
 
 list_tf<-unique(tab_sampleinfo[,1])
 
 # alphabetic order to have the DMRs as the first files to analyze
 list_tf<-list_tf[order(list_tf)]
 
-pdf("TF_avg_profiles.PromotersExons.pdf",width=12,height=4)
+pdf("/Users/guidantonio/Desktop/GitHub/project_adi/methylation_scripts/annotations_charts_ml_methylation/TF_avg_profiles.PromotersExons.pdf",width=12,height=4)
 
 for(plottf in list_tf){
 
@@ -190,10 +190,10 @@ for(plottf in list_tf){
     mut_samples<-myTempM_L3[1:3,]
     wt_samples<-myTempM_L3[4:6,]
     
-    matplot(t(mut_samples), type = 'l',col=c("yellow4","yellow2","lightyellow3"),ylab="Methylation signal",xaxt="n",main=title_plot,lty=c("dashed","dashed","dashed"),ylim=c(0.20,0.5))
+    matplot(t(mut_samples), type = 'l',col=c("yellow4","yellow2","lightyellow3"),ylab="Methylation signal",xaxt="n",main=title_plot,lty=c("dashed","dashed","dashed"),ylim=c(0.20,0.4))
     axis(1, at=c(0,100,200,300,400), labels=c("-2000","-1500","0","1500","2000"))
     lines(mut_samples_avg, col = 'gold2',lwd=2)
-    matplot(t(wt_samples), type = 'l',col=c("green4","mediumaquamarine","olivedrab2"),ylab="Methylation signal",xaxt="n",main=title_plot,add=T,lty=c("dashed","dashed","dashed"),ylim=c(0.20,0.5))
+    matplot(t(wt_samples), type = 'l',col=c("green4","mediumaquamarine","olivedrab2"),ylab="Methylation signal",xaxt="n",main=title_plot,add=T,lty=c("dashed","dashed","dashed"),ylim=c(0.20,0.4))
     lines(wt_samples_avg, col = 'darkgreen',lwd=2)
    
     legend("topleft",   legend=c(colnames(t(mut_samples)),colnames(t(wt_samples))),fill=c("yellow4","yellow2","lightyellow3","green4","mediumaquamarine","olivedrab2"),col=c("yellow4","yellow2","lightyellow3","green4","mediumaquamarine","olivedrab2"))
