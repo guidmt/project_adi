@@ -2,6 +2,16 @@
 
 gene_expression_scripts: The most important script is run_compare_signatures.GENERAL.R, used to created heatmaps, retrieve annotations etc.
 
+- run_compare_signatures.GENERAL.R: script to create the heatmap C1/C2 and select the genes. Create also the input for tumourmap. Use sampleinfo_C1vsC2.txt file. Works also with C1A/C1B
+- run_survival_analysis_final.R: define the C1A/C1B groups and create and HTML reports. It works with several groups (IDH-no-codel, TRIPLE MUT,LGG, LGG + GBM)
+
+/mnt/data/lab/gmt_data/data_brain/gmt_analysis/compare_mouse_signatures_with_human/analysis_04_02_2021/res_04_02_2021/adi_february_2021/Comp8_C1A_vs_C1B/MultiOmicsSurv
+- SurvWithMacroTME_CbioAdi.R: create overall survivals with a grouping defined by Adi and C1A/C1B classes
+- SurvWithMacroTME.R: overall survivals C1A/C1B and TME microenvironment 
+- SurvWithTMELasso.R: select the most important TME with lasso and do overall survival, integration C1/C1B.
+- SurvWithTME.R: another script in which we integrate C1A/C1B and TME
+
+
 methylation_scripts: scripts for the methylation analysis
 - run_quality_plot_March2021: annotate DMRs, create volcano plot, prepare input for deeptools
 - run_annotation_list_dem2_March2021.R: annotate DMRs, create volcano plot, prepare input for deeptools
