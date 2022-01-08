@@ -1,0 +1,1 @@
+adi_february_2021	Comp1_C1_vs_C2	C1:C2	0.01	2	4	1	0	/mnt/data/lab/gmt_data/data_brain/gmt_analysis/compare_mouse_signatures_with_human/analysis_11_11_2020/res_11_11_2020/DESeq2_rmv5_Adi18_10_22_CSHS15/Comp8_C1A_vs_C1B/Comp8_C1A_vs_C1B_1e-04_2.ort.txt
