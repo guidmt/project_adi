@@ -1,0 +1,795 @@
+STUDY_ID	SAMPLE_ID	IDH1	IDH2	ATRX	TP53
+lgggbm_tcga_pub	TCGA-CS-4938-01	R132H	WT	K358Nfs*2	R248W
+lgggbm_tcga_pub	TCGA-CS-4941-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-4942-01	R132H	WT	G1965Vfs*17	C275F
+lgggbm_tcga_pub	TCGA-CS-4943-01	R132H	WT	S2094*	Y220C
+lgggbm_tcga_pub	TCGA-CS-4944-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-5390-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-5393-01	R132H	WT	WT	P250L
+lgggbm_tcga_pub	TCGA-CS-5394-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-5395-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-5396-01	R132H	WT	WT	R273H
+lgggbm_tcga_pub	TCGA-CS-5397-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-6186-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-6188-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-6290-01	R132H	WT	WT	H179R
+lgggbm_tcga_pub	TCGA-CS-6665-01	R132H	WT	WT	P278Lfs*67
+lgggbm_tcga_pub	TCGA-CS-6666-01	R132C	WT	N1318Kfs*6	R175H T155P
+lgggbm_tcga_pub	TCGA-CS-6667-01	R132H	WT	WT	S127F
+lgggbm_tcga_pub	TCGA-CS-6668-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-CS-6670-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-5270-01	R132H	WT	S460Vfs*4	Y234C P151S
+lgggbm_tcga_pub	TCGA-DB-5273-01	R132H	WT	Q262*	R273H
+lgggbm_tcga_pub	TCGA-DB-5274-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-5275-01	R132H	WT	F2113Lfs*10	P250L
+lgggbm_tcga_pub	TCGA-DB-5276-01	R132C	WT	S522Qfs*39	WT
+lgggbm_tcga_pub	TCGA-DB-5277-01	R132H	WT	WT	Y236C
+lgggbm_tcga_pub	TCGA-DB-5278-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-5279-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-5280-01	R132H	WT	T662Dfs*4	R273H T155N
+lgggbm_tcga_pub	TCGA-DB-5281-01	R132H	WT	W222*	R248Q
+lgggbm_tcga_pub	TCGA-DB-A4X9-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A4XA-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A4XB-01	R132H	WT	WT	R248Q
+lgggbm_tcga_pub	TCGA-DB-A4XC-01	R132H	WT	E886Lfs*18	S94*
+lgggbm_tcga_pub	TCGA-DB-A4XD-01	R132C	WT	F2113Sfs*9 X199_splice	Y220C
+lgggbm_tcga_pub	TCGA-DB-A4XE-01	R132H	WT	H189Pfs*9	S241Y X33_splice
+lgggbm_tcga_pub	TCGA-DB-A4XF-01	R132C	WT	WT	H193R
+lgggbm_tcga_pub	TCGA-DB-A4XG-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A4XH-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64L-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64O-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64P-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64Q-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64R-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64S-01	R132C	WT	W1672* Q292*	L194R
+lgggbm_tcga_pub	TCGA-DB-A64U-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64V-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64W-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A64X-01	R132H	WT	WT	R273C Y220H
+lgggbm_tcga_pub	TCGA-DB-A75K-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DB-A75L-01	R132H	WT	WT	V274F
+lgggbm_tcga_pub	TCGA-DB-A75M-01	R132C	WT	M366*	C275F
+lgggbm_tcga_pub	TCGA-DB-A75O-01	R132H	WT	WT	V122Cfs*27
+lgggbm_tcga_pub	TCGA-DB-A75P-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DH-5140-01	WT	WT	WT	R335Vfs*10 M237V X332_splice
+lgggbm_tcga_pub	TCGA-DH-5141-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-DH-5142-01	R132H	WT	Q1603R	H193R
+lgggbm_tcga_pub	TCGA-DH-5143-01	R132H	WT	WT	L265R R248Q
+lgggbm_tcga_pub	TCGA-DH-5144-01	R132H	WT	V128A	WT
+lgggbm_tcga_pub	TCGA-DH-A669-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DH-A66B-01	R132H	WT	WT	K321Efs*16
+lgggbm_tcga_pub	TCGA-DH-A66D-01	R132H	WT	E303*	R175G
+lgggbm_tcga_pub	TCGA-DH-A66F-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DH-A66G-01	R132H	WT	X1757_splice	H179D
+lgggbm_tcga_pub	TCGA-DH-A7UR-01	WT	R172G	WT	WT
+lgggbm_tcga_pub	TCGA-DH-A7US-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DH-A7UT-01	R132H	WT	WT	K132N
+lgggbm_tcga_pub	TCGA-DH-A7UU-01	R132H	WT	WT	R273L
+lgggbm_tcga_pub	TCGA-DH-A7UV-01	R132G	WT	S381Qfs*33	R273C
+lgggbm_tcga_pub	TCGA-DU-5847-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-5849-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-DU-5851-01	R132H	WT	L563Yfs*11	R273C
+lgggbm_tcga_pub	TCGA-DU-5852-01	WT	WT	Y2418N	WT
+lgggbm_tcga_pub	TCGA-DU-5853-01	R132H	WT	X2037_splice	R273C
+lgggbm_tcga_pub	TCGA-DU-5854-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-5855-01	R132H	WT	R1426*	R273C
+lgggbm_tcga_pub	TCGA-DU-5870-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-5871-01	R132G	WT	M216*	R273C
+lgggbm_tcga_pub	TCGA-DU-5872-01	R132H	WT	E2172A	H179R
+lgggbm_tcga_pub	TCGA-DU-5874-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6393-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6394-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6395-01	R132H	WT	R658Vfs*2	V143G F109V
+lgggbm_tcga_pub	TCGA-DU-6396-01	R132H	WT	R1426*	R273C
+lgggbm_tcga_pub	TCGA-DU-6397-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6399-01	WT	WT	K295Rfs*4	Y126D
+lgggbm_tcga_pub	TCGA-DU-6400-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6401-01	R132S	WT	L359Tfs*3	R337C
+lgggbm_tcga_pub	TCGA-DU-6402-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6403-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6404-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6405-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6406-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6407-01	R132H	WT	V469Ifs*44	F109V
+lgggbm_tcga_pub	TCGA-DU-6408-01	R132H	WT	I1784S N1763K	R273C I255F
+lgggbm_tcga_pub	TCGA-DU-6410-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-6542-01	R132H	WT	WT	Y220C
+lgggbm_tcga_pub	TCGA-DU-7006-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7007-01	R132H	WT	R2111*	X125_splice
+lgggbm_tcga_pub	TCGA-DU-7008-01	R132H	WT	N237Kfs*23	F270S
+lgggbm_tcga_pub	TCGA-DU-7009-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7010-01	R132H	WT	WT	H179R
+lgggbm_tcga_pub	TCGA-DU-7011-01	R132H	WT	R418* D1940Ifs*15 R2028*	R282W
+lgggbm_tcga_pub	TCGA-DU-7012-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7013-01	WT	WT	WT	V216M
+lgggbm_tcga_pub	TCGA-DU-7015-01	R132H	WT	Y264Ffs*24	I195T
+lgggbm_tcga_pub	TCGA-DU-7018-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7019-01	R132H	WT	WT	R175H
+lgggbm_tcga_pub	TCGA-DU-7290-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7292-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7294-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7298-01	R132H	WT	V1002*	H193P E224=
+lgggbm_tcga_pub	TCGA-DU-7299-01	R132H	WT	WT	P278L
+lgggbm_tcga_pub	TCGA-DU-7300-01	R132H	WT	WT	R282W
+lgggbm_tcga_pub	TCGA-DU-7301-01	R132H	WT	K826Efs*4	Q136E
+lgggbm_tcga_pub	TCGA-DU-7302-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-7304-01	R132G	WT	K1640Sfs*6	R273C X125_splice
+lgggbm_tcga_pub	TCGA-DU-7306-01	R132H	WT	F2113Sfs*9	R248Q
+lgggbm_tcga_pub	TCGA-DU-7309-01	WT	R172S	E2203*	R248Q
+lgggbm_tcga_pub	TCGA-DU-8158-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-8161-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-8162-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-8163-01	R132H	WT	Y2152*	R273L
+lgggbm_tcga_pub	TCGA-DU-8164-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-8165-01	WT	WT	WT	R273C R158S
+lgggbm_tcga_pub	TCGA-DU-8166-01	R132H	WT	X221_splice	R273C
+lgggbm_tcga_pub	TCGA-DU-8167-01	R132H	WT	WT	V173L
+lgggbm_tcga_pub	TCGA-DU-8168-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A5TP-01	R132H	WT	R781*	R282W
+lgggbm_tcga_pub	TCGA-DU-A5TR-01	R132S	WT	R1742G	R273C
+lgggbm_tcga_pub	TCGA-DU-A5TS-01	R132H	WT	S889Lfs*8	WT
+lgggbm_tcga_pub	TCGA-DU-A5TT-01	WT	WT	WT	X126_splice
+lgggbm_tcga_pub	TCGA-DU-A5TU-01	R132H	WT	L2266*	Q136E
+lgggbm_tcga_pub	TCGA-DU-A5TW-01	R132H	WT	K971Tfs*31	X332_splice
+lgggbm_tcga_pub	TCGA-DU-A5TY-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A6S2-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A6S3-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A6S6-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A6S7-01	R132S	WT	F2113Sfs*9	A159V
+lgggbm_tcga_pub	TCGA-DU-A6S8-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A76K-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A76L-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A76O-01	R132H	WT	R907* D1791Y	R273C
+lgggbm_tcga_pub	TCGA-DU-A76R-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A7T6-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A7T8-01	R132H	WT	S458*	K120E
+lgggbm_tcga_pub	TCGA-DU-A7TA-01	WT	R172M	P2292Qfs*28	V122Cfs*27
+lgggbm_tcga_pub	TCGA-DU-A7TB-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A7TC-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-DU-A7TD-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A7TG-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-DU-A7TJ-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-5302-01	R132H	WT	R1504Qfs*5	R280Efs*65
+lgggbm_tcga_pub	TCGA-E1-5303-01	R132H	WT	L273Ffs*9	R280K
+lgggbm_tcga_pub	TCGA-E1-5304-01	R132H	WT	R2111*	S127Y
+lgggbm_tcga_pub	TCGA-E1-5305-01	R132H	WT	H2244Rfs*8	F270S
+lgggbm_tcga_pub	TCGA-E1-5307-01	R132H	WT	R418*	R273C
+lgggbm_tcga_pub	TCGA-E1-5311-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-5318-01	WT	R172M	WT	WT
+lgggbm_tcga_pub	TCGA-E1-5319-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-5322-01	R132H	WT	D184Ifs*22	Y163C
+lgggbm_tcga_pub	TCGA-E1-A7YD-01	WT	WT	WT	Q136*
+lgggbm_tcga_pub	TCGA-E1-A7YE-01	R132H	WT	V2189L	R273C V272M
+lgggbm_tcga_pub	TCGA-E1-A7YH-01	R132H	WT	G1712D	C277F
+lgggbm_tcga_pub	TCGA-E1-A7YI-01	R132H	WT	K1420*	R273C R306*
+lgggbm_tcga_pub	TCGA-E1-A7YJ-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YK-01	R132H	WT	L1632S L1612P	R273C
+lgggbm_tcga_pub	TCGA-E1-A7YL-01	WT	WT	WT	K132N Y205H
+lgggbm_tcga_pub	TCGA-E1-A7YM-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YN-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YO-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YQ-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YS-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7YU-01	R132H	WT	WT	R282W
+lgggbm_tcga_pub	TCGA-E1-A7YV-01	R132H	WT	I1049Kfs*69	WT
+lgggbm_tcga_pub	TCGA-E1-A7YW-01	R132H	WT	S1108Hfs*10	G245S
+lgggbm_tcga_pub	TCGA-E1-A7YY-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7Z2-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-E1-A7Z3-01	R132H	WT	R2271Kfs*14	P191del
+lgggbm_tcga_pub	TCGA-E1-A7Z4-01	R132H	WT	S729*	F212Sfs*3
+lgggbm_tcga_pub	TCGA-E1-A7Z6-01	R132H	WT	N428Yfs*5	R273C
+lgggbm_tcga_pub	TCGA-EZ-7264-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-F6-A8O3-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-F6-A8O4-01	R132H	WT	I360Rfs*6	R175H N131S
+lgggbm_tcga_pub	TCGA-FG-5962-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-5963-01	WT	WT	G2169E	R158G
+lgggbm_tcga_pub	TCGA-FG-5964-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-5965-01	R132H	WT	L1613*	R273C
+lgggbm_tcga_pub	TCGA-FG-6688-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-6689-01	R132H	WT	S1387*	F113del S33Ffs*10
+lgggbm_tcga_pub	TCGA-FG-6690-01	R132H	WT	L409*	R196* C238Y
+lgggbm_tcga_pub	TCGA-FG-6691-01	R132S	WT	L359Tfs*3	A161_I162del
+lgggbm_tcga_pub	TCGA-FG-6692-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-7634-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-7636-01	R132H	WT	K1932Gfs*21	R273C
+lgggbm_tcga_pub	TCGA-FG-7638-01	R132H	WT	R1131G	WT
+lgggbm_tcga_pub	TCGA-FG-7641-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-7643-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-8182-01	R132H	WT	G1597Yfs*5	X125_splice E339*
+lgggbm_tcga_pub	TCGA-FG-8185-01	R132C	WT	T278Sfs*3	V216L I195N
+lgggbm_tcga_pub	TCGA-FG-8186-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-8187-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-8188-01	R132H	WT	K425Rfs*8	R273C R158H
+lgggbm_tcga_pub	TCGA-FG-8191-01	R132H	WT	R1426*	F113V
+lgggbm_tcga_pub	TCGA-FG-A4MT-01	R132H	WT	D1940Vfs*14	C176F V173A
+lgggbm_tcga_pub	TCGA-FG-A4MU-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A4MW-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A4MX-01	R132H	WT	L1879V	T155N
+lgggbm_tcga_pub	TCGA-FG-A4MY-01	R132H	WT	K1766Rfs*16	C176Y
+lgggbm_tcga_pub	TCGA-FG-A60J-01	R132H	WT	WT	Y236C X261_splice
+lgggbm_tcga_pub	TCGA-FG-A60K-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A60L-01	R132H	WT	WT	X307_splice
+lgggbm_tcga_pub	TCGA-FG-A6IZ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A6J1-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A6J3-01	R132H	WT	WT	N239_S241del
+lgggbm_tcga_pub	TCGA-FG-A70Y-01	R132H	WT	R1426*	S269_E271delinsK
+lgggbm_tcga_pub	TCGA-FG-A70Z-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A710-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A711-01	R132H	WT	I1003Kfs*29	R273C
+lgggbm_tcga_pub	TCGA-FG-A713-01	R132H	WT	X198_splice	WT
+lgggbm_tcga_pub	TCGA-FG-A87N-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FG-A87Q-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-FN-7833-01	R132H	WT	D1940Rfs*2	R280K P153Rfs*18
+lgggbm_tcga_pub	TCGA-HT-7467-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7468-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7469-01	WT	WT	L413Kfs*20	R248W T125P
+lgggbm_tcga_pub	TCGA-HT-7470-01	R132S	WT	R1798Kfs*12	R273C
+lgggbm_tcga_pub	TCGA-HT-7471-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7472-01	R132H	WT	E1090Rfs*27	G266R
+lgggbm_tcga_pub	TCGA-HT-7473-01	R132H	WT	D766Rfs*10	R273C
+lgggbm_tcga_pub	TCGA-HT-7474-01	R132H	WT	Q1874Pfs*8	R267P
+lgggbm_tcga_pub	TCGA-HT-7475-01	R132H	WT	K2182R	D208G R110P
+lgggbm_tcga_pub	TCGA-HT-7476-01	WT	R172K	K467Tfs*4	R273C
+lgggbm_tcga_pub	TCGA-HT-7477-01	R132H	WT	X199_splice	H179R
+lgggbm_tcga_pub	TCGA-HT-7478-01	R132H	WT	V2180A	R273H
+lgggbm_tcga_pub	TCGA-HT-7479-01	R132C	WT	WT	V173M
+lgggbm_tcga_pub	TCGA-HT-7480-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7481-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7482-01	R132G	WT	K2019E	R273C P152L
+lgggbm_tcga_pub	TCGA-HT-7483-01	R132G	WT	X2109_splice	G244R
+lgggbm_tcga_pub	TCGA-HT-7485-01	R132H	WT	K202*	V216M
+lgggbm_tcga_pub	TCGA-HT-7601-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-HT-7602-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7603-01	R132H	WT	R1426*	G245S
+lgggbm_tcga_pub	TCGA-HT-7604-01	R132S	WT	V1002*	R196* M237I
+lgggbm_tcga_pub	TCGA-HT-7605-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7606-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7607-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7608-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7609-01	R132H	WT	WT	R273H X224_splice
+lgggbm_tcga_pub	TCGA-HT-7610-01	R132H	WT	X1603_splice	C141W T230P
+lgggbm_tcga_pub	TCGA-HT-7611-01	R132G	WT	K715Afs*4	I195F E286G
+lgggbm_tcga_pub	TCGA-HT-7616-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7620-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7676-01	R132H	WT	M1920*	H179R
+lgggbm_tcga_pub	TCGA-HT-7677-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7680-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7681-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7684-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7686-01	R132H	WT	S1285Pfs*61	R273H
+lgggbm_tcga_pub	TCGA-HT-7687-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7688-01	R132H	WT	X1758_splice	H179R
+lgggbm_tcga_pub	TCGA-HT-7689-01	R132H	WT	Y370*	R273C
+lgggbm_tcga_pub	TCGA-HT-7690-01	R132H	WT	K2019E	Y236C
+lgggbm_tcga_pub	TCGA-HT-7691-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7692-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7693-01	R132C	WT	R2188Q	R273C
+lgggbm_tcga_pub	TCGA-HT-7694-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7695-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7854-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7855-01	R132C	WT	V1347Efs*2	L130V
+lgggbm_tcga_pub	TCGA-HT-7856-01	WT	R172W	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7857-01	WT	WT	F2113Sfs*9	WT
+lgggbm_tcga_pub	TCGA-HT-7858-01	R132S	WT	K403Rfs*11	R175H
+lgggbm_tcga_pub	TCGA-HT-7860-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7873-01	R132H	WT	R907Dfs*63	WT
+lgggbm_tcga_pub	TCGA-HT-7874-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7875-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7877-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7879-01	R132H	WT	A916Vfs*54	H193L N263Sfs*8
+lgggbm_tcga_pub	TCGA-HT-7880-01	R132H	WT	K950*	M246V
+lgggbm_tcga_pub	TCGA-HT-7881-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7882-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-7884-01	R132H	WT	L359Tfs*3	R273C N288Efs*18
+lgggbm_tcga_pub	TCGA-HT-7902-01	R132H	WT	L2027P	Y220C
+lgggbm_tcga_pub	TCGA-HT-8010-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8011-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8012-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8013-01	R132H	WT	E505*	R273C M246V
+lgggbm_tcga_pub	TCGA-HT-8015-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8018-01	R132H	WT	WT	V274G
+lgggbm_tcga_pub	TCGA-HT-8019-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8104-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8105-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-HT-8106-01	WT	WT	WT	R306*
+lgggbm_tcga_pub	TCGA-HT-8107-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8108-01	R132H	WT	F2187Lfs*16	G154Afs*16
+lgggbm_tcga_pub	TCGA-HT-8109-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8110-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8111-01	R132H	WT	WT	A161T
+lgggbm_tcga_pub	TCGA-HT-8113-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-HT-8114-01	R132H	WT	I1049Nfs*4	H179R X187_splice
+lgggbm_tcga_pub	TCGA-HT-8563-01	R132H	WT	X1567_splice	P152Q
+lgggbm_tcga_pub	TCGA-HT-8564-01	WT	WT	WT	R267Q R156H
+lgggbm_tcga_pub	TCGA-HT-A4DS-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A4DV-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A5R5-01	R132H	WT	E1223*	R273C
+lgggbm_tcga_pub	TCGA-HT-A5R7-01	R132H	WT	K1300Efs*9	WT
+lgggbm_tcga_pub	TCGA-HT-A5R9-01	WT	R172G	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A5RA-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A5RB-01	R132H	WT	F2113Sfs*9	Y205S
+lgggbm_tcga_pub	TCGA-HT-A5RC-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A614-01	R132H	WT	Q610*	R273L
+lgggbm_tcga_pub	TCGA-HT-A615-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A616-01	R132H	WT	E351*	WT
+lgggbm_tcga_pub	TCGA-HT-A617-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A618-01	WT	WT	K454Rfs*16	R282W
+lgggbm_tcga_pub	TCGA-HT-A619-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A61B-01	R132H	WT	WT	Y220C
+lgggbm_tcga_pub	TCGA-HT-A61C-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A74H-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A74J-01	R132H	WT	R907*	R213*
+lgggbm_tcga_pub	TCGA-HT-A74K-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A74L-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HT-A74O-01	R132G	WT	E1702Yfs*22	P128del
+lgggbm_tcga_pub	TCGA-HW-7486-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-7487-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-7489-01	R132H	WT	D699Gfs*2	R273C
+lgggbm_tcga_pub	TCGA-HW-7490-01	R132H	WT	H1338Qfs*11	R273H
+lgggbm_tcga_pub	TCGA-HW-7491-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-HW-7495-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-8319-01	R132H	WT	R221K	R196* R248Q
+lgggbm_tcga_pub	TCGA-HW-8320-01	R132H	WT	WT	Y234Tfs*11
+lgggbm_tcga_pub	TCGA-HW-8321-01	R132H	WT	WT	G245S
+lgggbm_tcga_pub	TCGA-HW-8322-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-A5KJ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-A5KK-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-HW-A5KL-01	R132H	WT	W263R	I232S
+lgggbm_tcga_pub	TCGA-HW-A5KM-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-IK-7675-01	R132H	WT	K1045*	R273C
+lgggbm_tcga_pub	TCGA-IK-8125-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-KT-A74X-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-KT-A7W1-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A5ET-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A5EU-01	R132H	WT	Q1319Rfs*4	P190R
+lgggbm_tcga_pub	TCGA-P5-A5EV-01	R132H	WT	S1237*	L265P
+lgggbm_tcga_pub	TCGA-P5-A5EW-01	R132H	WT	K329Ifs*3	R273H
+lgggbm_tcga_pub	TCGA-P5-A5EX-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A5EY-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A5EZ-01	R132C	WT	WT	R213Dfs*34
+lgggbm_tcga_pub	TCGA-P5-A5F0-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A5F1-01	R132H	WT	R654*	W146* X261_splice
+lgggbm_tcga_pub	TCGA-P5-A5F2-01	R132H	WT	P1296*	R273C
+lgggbm_tcga_pub	TCGA-P5-A5F4-01	R132C	WT	WT	R273L
+lgggbm_tcga_pub	TCGA-P5-A5F6-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A72U-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A72W-01	R132H	WT	C1590Y	C238F
+lgggbm_tcga_pub	TCGA-P5-A72X-01	R132H	WT	WT	P190L
+lgggbm_tcga_pub	TCGA-P5-A72Z-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A730-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A731-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A733-01	R132H	WT	K971Tfs*31	P177R
+lgggbm_tcga_pub	TCGA-P5-A735-01	R132H	WT	F201Lfs*2	D281V X32_splice
+lgggbm_tcga_pub	TCGA-P5-A736-01	R132H	WT	S2094*	R196P
+lgggbm_tcga_pub	TCGA-P5-A737-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A77W-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A77X-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-P5-A780-01	R132H	WT	WT	Y163C
+lgggbm_tcga_pub	TCGA-P5-A781-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A65R-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A65S-01	R132H	WT	K1359Sfs*16	E346*
+lgggbm_tcga_pub	TCGA-QH-A65V-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A65X-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A65Z-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CS-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CU-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CV-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CW-01	R132H	WT	F2113Sfs*9	K132R
+lgggbm_tcga_pub	TCGA-QH-A6CX-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CY-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6CZ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6X3-01	R132H	WT	K1045*	V122Lfs*25
+lgggbm_tcga_pub	TCGA-QH-A6X4-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6X5-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6X8-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A6X9-01	R132H	WT	R1302Kfs*7	V157D
+lgggbm_tcga_pub	TCGA-QH-A6XA-01	R132H	WT	D878Efs*27	R273C
+lgggbm_tcga_pub	TCGA-QH-A6XC-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A86X-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-QH-A870-01	R132H	WT	S465*	R273H D228Tfs*19
+lgggbm_tcga_pub	TCGA-R8-A6MK-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-R8-A6ML-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-R8-A6MO-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-R8-A6YH-01	R132H	WT	K1300Efs*9	C275R
+lgggbm_tcga_pub	TCGA-R8-A73M-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RY-A83X-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RY-A83Y-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RY-A83Z-01	R132H	WT	T1630Nfs*8	R175H
+lgggbm_tcga_pub	TCGA-RY-A840-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RY-A843-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RY-A845-01	R132H	WT	WT	L145P
+lgggbm_tcga_pub	TCGA-RY-A847-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6TS-01	R132H	WT	T2228I	R273C
+lgggbm_tcga_pub	TCGA-S9-A6TU-01	R132H	WT	WT	Y220C
+lgggbm_tcga_pub	TCGA-S9-A6TV-01	R132H	WT	R2085P	R273C
+lgggbm_tcga_pub	TCGA-S9-A6TW-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6TX-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6TY-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6TZ-01	R132H	WT	WT	R248W
+lgggbm_tcga_pub	TCGA-S9-A6U0-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6U1-01	R132C	WT	E1090Rfs*27	WT
+lgggbm_tcga_pub	TCGA-S9-A6U2-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6U5-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6U6-01	R132H	WT	K1332*	R273C
+lgggbm_tcga_pub	TCGA-S9-A6U8-01	R132C	WT	E2172G	M237I
+lgggbm_tcga_pub	TCGA-S9-A6U9-01	R132C	WT	K1420Tfs*9	WT
+lgggbm_tcga_pub	TCGA-S9-A6UA-01	WT	WT	X1270_splice	WT
+lgggbm_tcga_pub	TCGA-S9-A6UB-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WD-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WE-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WG-01	R132H	WT	R1739*	Q331* R181H
+lgggbm_tcga_pub	TCGA-S9-A6WH-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WI-01	R132C	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WL-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WM-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WN-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WO-01	R132H	WT	K690Tfs*10	W91*
+lgggbm_tcga_pub	TCGA-S9-A6WP-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A6WQ-01	R132H	WT	Q1416Ifs*71	G279E H179D
+lgggbm_tcga_pub	TCGA-S9-A7IQ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7IS-01	R132H	WT	R1302Efs*44	WT
+lgggbm_tcga_pub	TCGA-S9-A7IX-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7IY-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7IZ-01	R132H	WT	E607Kfs*14	C275_R282delinsW
+lgggbm_tcga_pub	TCGA-S9-A7J0-01	R132S	WT	WT	V173M
+lgggbm_tcga_pub	TCGA-S9-A7J1-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7J2-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7J3-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7QW-01	R132H	WT	V398Cfs*4	R213Q
+lgggbm_tcga_pub	TCGA-S9-A7QX-01	R132H	WT	Q289Sfs*10	X225_splice
+lgggbm_tcga_pub	TCGA-S9-A7QY-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7QZ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7R1-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7R2-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-S9-A7R3-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-S9-A7R4-01	R132H	WT	WT	T125=
+lgggbm_tcga_pub	TCGA-S9-A7R7-01	R132H	WT	R250*	R248Q P278Lfs*67
+lgggbm_tcga_pub	TCGA-S9-A7R8-01	R132H	WT	K806Rfs*16 I802V	V272M
+lgggbm_tcga_pub	TCGA-S9-A89V-01	WT	WT	N1307Mfs*39	WT
+lgggbm_tcga_pub	TCGA-S9-A89Z-01	R132H	WT	WT	R273H H297Tfs*48
+lgggbm_tcga_pub	TCGA-TM-A7C3-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A7C4-01	R132H	WT	X221_splice	C275G
+lgggbm_tcga_pub	TCGA-TM-A7C5-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A7CA-01	R132H	WT	V1579Efs*21	R342* S90Pfs*33
+lgggbm_tcga_pub	TCGA-TM-A7CF-01	R132H	WT	WT	R273C S215G
+lgggbm_tcga_pub	TCGA-TM-A84B-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84C-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84F-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84G-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84H-01	R132H	WT	R1739*	E171Gfs*3
+lgggbm_tcga_pub	TCGA-TM-A84I-01	R132H	WT	R1302Lfs*43	Y220C R175H
+lgggbm_tcga_pub	TCGA-TM-A84J-01	WT	WT	WT	R158S
+lgggbm_tcga_pub	TCGA-TM-A84L-01	R132H	WT	R808*	H214R N200Ifs*47
+lgggbm_tcga_pub	TCGA-TM-A84M-01	R132H	WT	WT	R248W
+lgggbm_tcga_pub	TCGA-TM-A84O-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84Q-01	R132H	WT	V1002Lfs*30	R249G
+lgggbm_tcga_pub	TCGA-TM-A84R-01	WT	R172M	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84S-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TM-A84T-01	R132H	WT	I1049*	R273C
+lgggbm_tcga_pub	TCGA-TQ-A7RF-01	R132H	WT	WT	F109S
+lgggbm_tcga_pub	TCGA-TQ-A7RG-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RH-01	R132H	WT	L2027P	V173L
+lgggbm_tcga_pub	TCGA-TQ-A7RI-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RJ-01	R132G	WT	X1374_splice	R306* K120Sfs*3
+lgggbm_tcga_pub	TCGA-TQ-A7RK-01	R132G	WT	Q1431*	G245S
+lgggbm_tcga_pub	TCGA-TQ-A7RM-01	R132H	WT	WT	R175H
+lgggbm_tcga_pub	TCGA-TQ-A7RN-01	R132H	WT	WT	C277W
+lgggbm_tcga_pub	TCGA-TQ-A7RO-01	WT	R172K	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RP-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RQ-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RR-01	R132H	WT	N755Mfs*13	R273C M237V
+lgggbm_tcga_pub	TCGA-TQ-A7RS-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RU-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-TQ-A7RV-01	R132H	WT	H855Qfs*7	R273C R248W
+lgggbm_tcga_pub	TCGA-TQ-A7RW-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-TQ-A8XE-01	R132H	WT	WT	R196*
+lgggbm_tcga_pub	TCGA-VM-A8C8-01	R132H	WT	R654*	Y220C
+lgggbm_tcga_pub	TCGA-VM-A8C9-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VM-A8CA-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VM-A8CB-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VM-A8CD-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VM-A8CE-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VM-A8CF-01	R132H	WT	I360Rfs*6	R273C
+lgggbm_tcga_pub	TCGA-VM-A8CH-01	R132C	WT	S849Ffs*2	WT
+lgggbm_tcga_pub	TCGA-VV-A829-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VV-A86M-01	R132H	WT	WT	Y163N
+lgggbm_tcga_pub	TCGA-VW-A7QS-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-VW-A8FI-01	WT	WT	WT	P151A P177H
+lgggbm_tcga_pub	TCGA-W9-A837-01	R132H	WT	WT	WT
+lgggbm_tcga_pub	TCGA-WH-A86K-01	R132H	WT	WT	Y220C R273C
+lgggbm_tcga_pub	TCGA-WY-A858-01	R132H	WT	K1357Rfs*18	P151S Q317*
+lgggbm_tcga_pub	TCGA-WY-A859-01	R132S	WT	WT	R248W
+lgggbm_tcga_pub	TCGA-WY-A85A-01	R132H	WT	X1929_splice	WT
+lgggbm_tcga_pub	TCGA-WY-A85B-01	R132G	WT	G2073S	R273C
+lgggbm_tcga_pub	TCGA-WY-A85C-01	R132G	WT	WT	R175H P27Lfs*17
+lgggbm_tcga_pub	TCGA-WY-A85D-01	R132H	WT	R2131*	C141Y C277Y
+lgggbm_tcga_pub	TCGA-WY-A85E-01	R132H	WT	Y817*	Y220C
+lgggbm_tcga_pub	TCGA-02-0003-01	WT	WT	WT	R282W H178Q
+lgggbm_tcga_pub	TCGA-02-0033-01	WT	WT	WT	R248Q
+lgggbm_tcga_pub	TCGA-02-0047-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-02-0055-01	WT	WT	WT	V216M
+lgggbm_tcga_pub	TCGA-02-2470-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-02-2483-01	R132H	WT	W2001Cfs*14	R273H
+lgggbm_tcga_pub	TCGA-02-2485-01	WT	WT	WT	R248Q S127Y
+lgggbm_tcga_pub	TCGA-02-2486-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0119-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0122-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0124-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0125-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0126-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0128-01	R132H	WT	WT	S313Afs*32
+lgggbm_tcga_pub	TCGA-06-0129-01	R132H	WT	E886Lfs*18	R248Q
+lgggbm_tcga_pub	TCGA-06-0130-01	WT	WT	WT	R158H
+lgggbm_tcga_pub	TCGA-06-0132-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0137-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0139-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0140-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0141-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0142-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0145-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0151-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0152-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0154-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0155-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0157-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0158-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0166-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0168-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0169-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0171-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0173-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0174-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0184-01	WT	WT	WT	R158H
+lgggbm_tcga_pub	TCGA-06-0185-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0188-01	WT	WT	WT	X307_splice A307V
+lgggbm_tcga_pub	TCGA-06-0189-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0190-01	WT	WT	WT	G245S
+lgggbm_tcga_pub	TCGA-06-0192-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0195-01	WT	WT	WT	G266R D281A
+lgggbm_tcga_pub	TCGA-06-0209-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0210-01	WT	WT	WT	R248Q
+lgggbm_tcga_pub	TCGA-06-0211-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0213-01	WT	WT	L1827Cfs*9	WT
+lgggbm_tcga_pub	TCGA-06-0214-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0216-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0219-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0221-01	R132G	WT	Q177*	K139Nfs*9
+lgggbm_tcga_pub	TCGA-06-0237-01	WT	WT	WT	I195T
+lgggbm_tcga_pub	TCGA-06-0238-01	WT	WT	WT	N239_S241del
+lgggbm_tcga_pub	TCGA-06-0241-01	WT	WT	WT	R248Q
+lgggbm_tcga_pub	TCGA-06-0644-01	WT	WT	WT	Y220C
+lgggbm_tcga_pub	TCGA-06-0645-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0646-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0648-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0649-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0650-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0686-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0743-01	WT	WT	WT	H179R
+lgggbm_tcga_pub	TCGA-06-0744-01	WT	WT	WT	H179R
+lgggbm_tcga_pub	TCGA-06-0745-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0747-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0749-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0750-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0875-01	WT	WT	WT	R282W
+lgggbm_tcga_pub	TCGA-06-0876-01	WT	WT	WT	R248W
+lgggbm_tcga_pub	TCGA-06-0877-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0878-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0879-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0881-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0882-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-0939-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-1804-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-1806-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2557-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2558-01	WT	WT	WT	D281H
+lgggbm_tcga_pub	TCGA-06-2559-01	WT	WT	WT	P190L T155N
+lgggbm_tcga_pub	TCGA-06-2561-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2562-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2563-01	WT	WT	WT	L130P
+lgggbm_tcga_pub	TCGA-06-2564-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2565-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-2567-01	WT	WT	WT	R196* E271K
+lgggbm_tcga_pub	TCGA-06-2569-01	WT	WT	WT	T155_R158del
+lgggbm_tcga_pub	TCGA-06-2570-01	R132H	WT	K1424Gfs*65	Q136E
+lgggbm_tcga_pub	TCGA-06-5408-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5410-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5411-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5412-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5413-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5414-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5415-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5418-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5856-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-5858-01	WT	WT	R2153C	R175H
+lgggbm_tcga_pub	TCGA-06-5859-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6388-01	WT	WT	K1018N	WT
+lgggbm_tcga_pub	TCGA-06-6389-01	R132H	WT	WT	Y220C
+lgggbm_tcga_pub	TCGA-06-6390-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6391-01	WT	WT	E740*	WT
+lgggbm_tcga_pub	TCGA-06-6693-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6694-01	WT	WT	WT	C238F
+lgggbm_tcga_pub	TCGA-06-6695-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6697-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6698-01	WT	WT	WT	R175H
+lgggbm_tcga_pub	TCGA-06-6699-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6700-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-6701-01	R132H	WT	M1679_I1680del	D281H D281A
+lgggbm_tcga_pub	TCGA-06-A5U0-01	WT	WT	F2113Sfs*9	R342* E171Gfs*4
+lgggbm_tcga_pub	TCGA-06-A5U1-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-A6S0-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-06-A6S1-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-08-0386-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-0615-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-0616-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-0618-01	WT	WT	WT	C238Y
+lgggbm_tcga_pub	TCGA-12-0619-01	WT	WT	WT	K164E
+lgggbm_tcga_pub	TCGA-12-0688-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-0692-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-0821-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-3649-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-3650-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-3652-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-3653-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-5295-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-5299-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-12-5301-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0740-01	WT	WT	WT	G245S
+lgggbm_tcga_pub	TCGA-14-0781-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0786-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0787-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0789-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0790-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0813-01	WT	WT	WT	R282W F212Yfs*34
+lgggbm_tcga_pub	TCGA-14-0817-01	WT	WT	WT	L194Pfs*13
+lgggbm_tcga_pub	TCGA-14-0862-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-0871-01	WT	WT	WT	G302Rfs*4
+lgggbm_tcga_pub	TCGA-14-1034-01	WT	WT	WT	G105R
+lgggbm_tcga_pub	TCGA-14-1043-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-1395-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-1450-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-1456-01	R132H	WT	Q1843H	Y220C
+lgggbm_tcga_pub	TCGA-14-1823-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-1825-01	WT	WT	WT	R196* R282W
+lgggbm_tcga_pub	TCGA-14-1829-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-2554-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-14-4157-01	R132H	WT	Q1213Rfs*4	R175H V157G
+lgggbm_tcga_pub	TCGA-15-0742-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-15-1444-01	R132G	WT	Q2146Efs*12	R248W
+lgggbm_tcga_pub	TCGA-16-0846-01	WT	WT	WT	H179Y
+lgggbm_tcga_pub	TCGA-16-0861-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-16-1045-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-16-1048-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-1390-01	WT	WT	WT	L194R L130F
+lgggbm_tcga_pub	TCGA-19-2619-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-2620-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-2623-01	WT	WT	WT	G245S
+lgggbm_tcga_pub	TCGA-19-2624-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-2625-01	WT	WT	WT	C238Y Y205C
+lgggbm_tcga_pub	TCGA-19-2629-01	R132H	WT	K358Tfs*3	X126_splice
+lgggbm_tcga_pub	TCGA-19-2631-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5947-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5950-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5951-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5952-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5953-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5954-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5955-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5958-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5959-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-5960-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-A60I-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-A6J4-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-19-A6J5-01	R132H	WT	V957Yfs*13	H179R
+lgggbm_tcga_pub	TCGA-26-1439-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-1442-01	R132H	WT	WT	R273C
+lgggbm_tcga_pub	TCGA-26-5132-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-5133-01	WT	WT	WT	Y234C
+lgggbm_tcga_pub	TCGA-26-5134-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-5135-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-5136-01	WT	WT	WT	K132N
+lgggbm_tcga_pub	TCGA-26-5139-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-6173-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-26-6174-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1830-01	WT	WT	WT	R248Q
+lgggbm_tcga_pub	TCGA-27-1831-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1832-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1833-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1834-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1835-01	WT	WT	WT	V216M
+lgggbm_tcga_pub	TCGA-27-1836-01	WT	WT	WT	T211I
+lgggbm_tcga_pub	TCGA-27-1837-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-1838-01	WT	WT	WT	X225_splice C275Y
+lgggbm_tcga_pub	TCGA-27-2518-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-2519-01	WT	WT	WT	R282Gfs*63
+lgggbm_tcga_pub	TCGA-27-2521-01	R132H	WT	S1740*	L264Yfs*81
+lgggbm_tcga_pub	TCGA-27-2523-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-2524-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-2526-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-2527-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-27-2528-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-1747-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-1753-01	WT	WT	WT	R273H
+lgggbm_tcga_pub	TCGA-28-2501-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-2502-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-2509-01	WT	WT	WT	C242Y
+lgggbm_tcga_pub	TCGA-28-2510-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-2513-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-2514-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5204-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5207-01	WT	WT	WT	G266V
+lgggbm_tcga_pub	TCGA-28-5208-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5209-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5211-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5213-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5214-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5215-01	WT	WT	WT	T125=
+lgggbm_tcga_pub	TCGA-28-5216-01	WT	WT	WT	R249M
+lgggbm_tcga_pub	TCGA-28-5218-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-5219-01	WT	WT	WT	X32_splice
+lgggbm_tcga_pub	TCGA-28-5220-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-28-6450-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1970-01	WT	WT	WT	R267P
+lgggbm_tcga_pub	TCGA-32-1977-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1979-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1980-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1982-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1986-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-1991-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-2491-01	WT	WT	WT	C238F
+lgggbm_tcga_pub	TCGA-32-2494-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-2495-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-2615-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-2632-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-2634-01	WT	WT	WT	I254S
+lgggbm_tcga_pub	TCGA-32-2638-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-4208-01	R132H	WT	R907*	R175H
+lgggbm_tcga_pub	TCGA-32-4210-01	WT	WT	WT	M246R
+lgggbm_tcga_pub	TCGA-32-4211-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-4213-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-4719-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-32-5222-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-2571-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-2572-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-2573-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-2575-01	WT	WT	WT	X225_splice
+lgggbm_tcga_pub	TCGA-41-3392-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-3393-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-3915-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-4097-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-5651-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-41-6646-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-74-6573-01	WT	WT	WT	R213Q
+lgggbm_tcga_pub	TCGA-74-6575-01	WT	WT	R1371T	WT
+lgggbm_tcga_pub	TCGA-74-6577-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-74-6578-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-74-6584-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-4925-01	WT	WT	WT	R249T
+lgggbm_tcga_pub	TCGA-76-4926-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-4928-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-4929-01	WT	WT	WT	R342* P152S
+lgggbm_tcga_pub	TCGA-76-4931-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-4934-01	WT	WT	WT	R273H
+lgggbm_tcga_pub	TCGA-76-4935-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6191-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6192-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6193-01	WT	WT	WT	T155N G244S R156C
+lgggbm_tcga_pub	TCGA-76-6280-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6282-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6283-01	WT	WT	WT	R158H
+lgggbm_tcga_pub	TCGA-76-6285-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6286-01	WT	WT	WT	Y234C Q375K
+lgggbm_tcga_pub	TCGA-76-6656-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6657-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6660-01	WT	WT	WT	V172G
+lgggbm_tcga_pub	TCGA-76-6661-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6662-01	WT	WT	WT	A138T
+lgggbm_tcga_pub	TCGA-76-6663-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-76-6664-01	WT	WT	WT	R248W
+lgggbm_tcga_pub	TCGA-81-5910-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-81-5911-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-87-5896-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-OX-A56R-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RR-A6KA-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RR-A6KB-01	WT	WT	WT	WT
+lgggbm_tcga_pub	TCGA-RR-A6KC-01	WT	WT	WT	WT
